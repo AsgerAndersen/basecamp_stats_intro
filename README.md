@@ -3,9 +3,9 @@ Jupyter Notebooks for the "Introduction to Statistics" part of the *Basecamp* co
 
 The exercises use a subset of the data from the article [American geography of opportunity reveals European origins](https://www.pnas.org/content/116/13/6045) (Berger & Engzell, 2019). The full dataset can be found [here](https://osf.io/5w7kf/files/).
 
-#### How to download the notebooks
+#### How to open the notebooks
 
-There are two ways to download the notebooks with the exercises to your computer. You can use the Github functionalities, if you know how to do this. If you don't, don't worry. Just press the green "Code" button above and then press "Download ZIP".
+There are two ways to download the notebooks with the exercises to your computer. You can use the Github functionalities, if you know how to do this. If you don't, don't worry. Just press the green "Code" button above and then press "Download ZIP". When you have downloaded the notebooks, open them in the way you have learned in the programming part of the course.
 
 Another method to work with the notebooks is to open them in [Google Colab](https://colab.research.google.com/) using [this link](https://colab.research.google.com/github/AsgerAndersen/basecamp_stats_intro/blob/master/). However, this demands that you have a Google account. You cannot save any changes you make to a notebook, which you have opened in Colab, unless you make sure to save a copy of it on your own google drive (you can do this when you have opened the notebook in Colab).
 
