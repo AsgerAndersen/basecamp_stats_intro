@@ -1,0 +1,713 @@
+name,state,south,british,german,mobility
+Johnson City,Tennessee,True,43.81228,13.4122715,6.219881
+Morristown,Tennessee,True,40.146282,9.912126,5.365194
+Middlesborough,Tennessee,True,41.81369,8.364313,7.2635136
+Knoxville,Tennessee,True,39.543404,12.629138,5.6281214
+Winston-Salem,North Carolina,True,37.257114,15.411433,4.480079
+Martinsville,Virginia,True,38.96289,10.418649,5.183585
+Greensboro,North Carolina,True,35.14177,12.273052,4.739694
+North Wilkesboro,North Carolina,True,47.877243,13.706939,5.1663127
+Galax,Virginia,True,46.487526,14.429791,7.9569893
+Spartanburg,South Carolina,True,33.86375,8.150389,4.311119
+Gastonia,North Carolina,True,30.492624,15.60656,5.1527305
+Charlotte,North Carolina,True,31.072124,15.204427,4.378524
+Boone,North Carolina,True,47.119873,13.723063,5.608365
+Morganton,North Carolina,True,38.66947,16.0744,5.4446464
+Hickory,North Carolina,True,32.495342,23.67187,4.496967
+Franklin,North Carolina,True,42.332012,9.40595,5.6661563
+Sylva,North Carolina,True,43.45588,10.338236,6.066536
+Asheville,North Carolina,True,41.51368,11.760987,6.338028
+Andrews,North Carolina,True,42.237206,9.327305,8.048103
+Bennettsville,South Carolina,True,29.810217,3.3010297,2.979684
+Florence,South Carolina,True,29.990234,5.987766,3.56782
+Fayetteville,North Carolina,True,29.401615,7.727994,3.824701
+Wilmington,North Carolina,True,35.293713,7.706617,4.18034
+Wilson,North Carolina,True,33.980026,3.7427096,3.195838
+Raleigh,North Carolina,True,37.727337,9.098712,4.9986634
+Henderson,North Carolina,True,34.274082,3.4056988,3.3608816
+Goldsboro,North Carolina,True,33.451107,6.080064,4.5354953
+Jacksonville,North Carolina,True,33.07037,9.331167,4.700724
+Virginia Beach,Virginia,True,30.594173,12.585446,5.3550944
+Washington,North Carolina,True,37.58375,5.3406367,4.978848
+South Boston,Virginia,True,32.939278,4.9860024,4.9048753
+Lynchburg,Virginia,True,40.851986,10.248944,6.735914
+Richmond,Virginia,True,34.83025,11.622904,5.476467
+Newport News,Virginia,True,32.315304,12.012609,5.136576
+Roanoke Rapids,North Carolina,True,32.749565,3.686938,3.27529
+Gulfport,Mississippi,True,29.708525,11.362141,6.710703
+Laurel,Mississippi,True,32.28007,4.5675297,6.920706
+Hattiesburg,Mississippi,True,31.515875,6.4721184,6.051089
+Kosciusko,Mississippi,True,25.713074,3.191189,3.5489666
+Yazoo City,Mississippi,True,24.645706,5.739402,2.4789524
+Jackson,Mississippi,True,29.722065,6.3272476,3.7534046
+McComb,Mississippi,True,26.463886,5.451495,6.252972
+Brookhaven,Mississippi,True,24.835886,4.781182,6.4295487
+Jena,Louisiana,True,23.31241,5.3958817,12.642225
+Natchez,Mississippi,True,24.586628,4.766621,4.874603
+Vicksburg,Mississippi,True,26.143309,5.733508,3.1178207
+New Orleans,Louisiana,True,15.207865,14.792228,5.1212864
+Houma,Louisiana,True,13.937253,7.7581816,11.346915
+Baton Rouge,Louisiana,True,22.316647,8.452179,6.0396895
+Alexandria,Louisiana,True,26.064539,6.4920135,6.7212844
+Lake Charles,Louisiana,True,22.477419,8.761622,9.711846
+Lafayette,Louisiana,True,13.841242,7.3151565,9.505354
+Monroe,Louisiana,True,27.10833,4.6967897,5.51851
+Lake Providence,Louisiana,True,26.691982,2.9819076,5.730659
+Magnolia,Arkansas,True,30.166037,6.3789763,6.0388947
+Shreveport,Louisiana,True,24.181131,8.547918,5.2718506
+Ruston,Louisiana,True,23.359674,4.660389,6.8827925
+Many,Louisiana,True,21.938135,5.067915,15.160796
+Crossett,Arkansas,True,25.70269,7.5304375,4.1538463
+Pine Bluff,Arkansas,True,22.975327,7.6674995,4.282983
+El Dorado,Arkansas,True,30.32598,5.910438,5.663305
+Little Rock,Arkansas,True,30.362627,13.079253,5.3561716
+Stuttgart,Arkansas,True,27.288876,9.248794,5.3962903
+Searcy,Arkansas,True,34.722813,13.049041,8.910454
+London,Kentucky,True,42.70013,6.9464116,6.3895307
+Richmond,Kentucky,True,39.928715,10.272737,5.9086843
+West Liberty,Kentucky,True,51.016808,7.6465616,6.843854
+Hazard,Kentucky,True,49.41644,6.7463017,13.065937
+Campbellsville,Kentucky,True,46.406303,7.22268,7.1428576
+Somerset,Kentucky,True,46.079052,7.4430323,6.271451
+Greenwood,Mississippi,True,25.713074,3.191189,3.311066
+Clarksdale,Mississippi,True,26.618341,5.31298,2.7132504
+Greenville,Mississippi,True,20.948305,3.3111837,2.210159
+Jackson,Tennessee,True,34.069107,5.9787455,4.7488127
+Dyersburg,Tennessee,True,29.843775,5.324875,4.311153
+Lexington,Tennessee,True,34.42487,6.2702494,8.1659975
+Tupelo,Mississippi,True,34.736515,5.8321247,4.357342
+Corinth,Mississippi,True,32.746662,4.9738283,6.576325
+New Albany,Mississippi,True,32.089672,4.9876018,5.4625554
+Memphis,Tennessee,True,25.217052,7.626564,2.818274
+West Memphis,Arkansas,True,23.010015,6.5570965,3.2014072
+Bowling Green,Kentucky,True,36.251682,10.065016,6.4267354
+Glasgow,Kentucky,True,37.579773,6.829459,6.1355767
+Columbia,Tennessee,True,30.263815,7.755102,5.7019267
+Nashville,Tennessee,True,33.621967,10.027659,5.726345
+Tullahoma,Tennessee,True,33.100502,8.614668,6.1447425
+Dickson,Tennessee,True,37.56423,8.945364,7.1536145
+Clarksville,Tennessee,True,31.344631,11.589382,5.996885
+Huntsville,Alabama,True,35.520317,10.605852,5.6676154
+Gadsden,Alabama,True,38.30788,6.518028,7.105666
+Florence,Alabama,True,37.782787,7.042747,7.106715
+McMinnville,Tennessee,True,41.041943,7.698331,5.7225432
+Cookeville,Tennessee,True,40.758747,7.5191283,7.202881
+Chattanooga,Tennessee,True,35.635464,10.130108,5.7053065
+Crossville,Tennessee,True,40.237297,7.8097315,7.084469
+Ellijay,Georgia,True,41.84884,8.0348835,6.4965196
+Cleveland,Tennessee,True,40.09122,9.13398,6.6822977
+Rome,Georgia,True,36.624905,6.5794683,4.8462133
+Tampa,Florida,True,31.11668,19.577335,6.0128427
+Lakeland,Florida,True,30.08087,13.453534,5.2058496
+Sarasota,Florida,True,32.85168,22.334103,6.8315663
+Miami,Florida,True,15.379021,11.104662,7.2966084
+Port St. Lucie,Florida,True,26.573988,17.528988,6.2430377
+Cape Coral,Florida,True,31.804443,20.814545,6.019152
+Palm Bay,Florida,True,33.155647,20.497814,6.588921
+Orlando,Florida,True,32.586727,18.013304,5.781661
+Deltona,Florida,True,32.603558,18.332342,5.8778915
+Jacksonville,Florida,True,30.821163,12.648204,4.921316
+Lake City,Florida,True,28.632011,8.372093,4.9539456
+Ocala,Florida,True,29.109215,16.847223,5.6420493
+Gainesville,Florida,True,30.583456,14.476754,4.9674654
+Sumter,South Carolina,True,25.700241,5.8763003,3.4936707
+Columbia,South Carolina,True,28.338354,14.330376,3.7213266
+Barnwell,South Carolina,True,19.166773,9.618877,3.5372145
+Charleston,South Carolina,True,26.542875,12.687423,4.4469237
+Greenville,South Carolina,True,34.337,9.148859,4.698575
+Aiken,Georgia,True,28.426245,8.889333,4.104875
+Washington,Georgia,True,32.534523,5.946984,3.114478
+Fitzgerald,Georgia,True,30.949312,5.530498,3.5914705
+Cordele,Georgia,True,23.955252,4.6974955,3.304904
+Valdosta,Georgia,True,30.154129,5.262039,3.1849012
+Waycross,Georgia,True,37.63217,4.2121687,4.459174
+Brunswick,Georgia,True,30.239492,9.794917,4.738267
+Hinesville,Georgia,True,31.90725,7.9090557,4.89418
+Statesboro,Georgia,True,32.84617,5.8913236,3.888889
+Savannah,Georgia,True,25.963043,10.098316,4.0967093
+Macon,Georgia,True,29.614235,6.317034,3.2611172
+Vidalia,Georgia,True,32.29458,4.48687,4.8065295
+Milledgeville,Georgia,True,30.138414,3.3560865,3.2226562
+Dublin,Georgia,True,30.138414,3.3560865,3.2026968
+Atlanta,Georgia,True,33.40816,10.289177,4.5329733
+Griffin,Georgia,True,33.601303,7.2925644,4.028133
+Winder,Georgia,True,36.434124,9.056458,3.7950664
+Toccoa,Georgia,True,38.75748,7.0621543,4.166667
+Gainesville,Georgia,True,38.515114,7.31034,6.97157
+Talladega,Alabama,True,34.226788,4.4382563,4.4903226
+LaGrange,Georgia,True,33.30042,6.128768,5.234302
+Columbus,Georgia,True,26.13253,8.083115,3.4960334
+Americus,Georgia,True,22.381983,5.038809,3.440743
+Auburn,Alabama,True,29.641596,5.815395,3.4264803
+Tallahassee,Florida,True,31.091795,9.46798,4.7025814
+Panama City,Florida,True,32.5783,11.357584,5.8157487
+Bainbridge,Georgia,True,26.527287,4.037595,3.9333332
+Thomasville,Georgia,True,26.527287,4.037595,3.2886195
+Albany,Georgia,True,25.332174,5.610484,2.7632687
+Eufaula,Georgia,True,29.178741,5.4186864,2.2954924
+Dothan,Alabama,True,35.423485,6.7042084,5.828221
+Meridian,Mississippi,True,31.22104,5.103507,4.6772876
+Columbus,Mississippi,True,28.318426,5.868155,3.6027853
+Starkville,Mississippi,True,27.763865,6.53548,3.9936104
+Jasper,Alabama,True,37.451725,5.783976,8.658836
+Birmingham,Alabama,True,31.404009,7.181424,5.0431833
+Tuscaloosa,Alabama,True,31.096619,5.98782,4.032258
+Demopolis,Alabama,True,24.472237,3.6426148,4.2383046
+Pensacola,Florida,True,32.199524,13.343489,6.120634
+Mobile,Alabama,True,26.6595,8.305265,5.1398
+Atmore,Alabama,True,28.975433,6.6814094,4.778761
+Montgomery,Alabama,True,29.877487,7.1914463,3.3037372
+Troy,Alabama,True,29.926146,4.5151267,6.798867
+Bluefield,Virginia,True,41.788284,11.494758,11.074919
+Welch,West Virginia,True,31.895653,10.133333,15.991471
+Big Stone Gap,Virginia,True,46.248085,9.222393,10.360825
+Fredericksburg,Virginia,True,35.24051,13.873418,9.458128
+Baltimore,Maryland,True,22.307756,25.290289,6.400739
+Colonial Beach,Virginia,True,36.804565,6.1816454,6.545153
+Washington DC,District of Columbia,True,26.477676,16.961878,10.9811735
+Marquette,Michigan,False,21.222464,23.599257,9.656513
+Marinette,Michigan,False,13.087234,34.072414,10.272536
+Sault Ste. Marie,Michigan,False,22.60633,22.509224,9.91832
+Jackson,Michigan,False,35.245846,30.831268,6.3088784
+Detroit,Michigan,False,22.597614,21.587563,5.459276
+Lansing,Michigan,False,35.049206,30.119228,6.411674
+Mount Pleasant,Michigan,False,35.02772,33.40048,6.4615383
+Saginaw,Michigan,False,25.730207,35.962505,6.440809
+Big Rapids,Michigan,False,29.107592,31.598309,7.430792
+Ludington,Michigan,False,29.014507,31.539211,7.607362
+Kalamazoo,Michigan,False,33.090412,26.112112,5.2623134
+Grand Rapids,Michigan,False,25.015757,24.856848,6.3729167
+Traverse City,Michigan,False,28.561821,31.2518,7.424867
+Petoskey,Michigan,False,27.480661,31.643566,7.6555023
+Alpena,Michigan,False,26.833805,31.8978,7.8644066
+Grayling charter,Michigan,False,27.411848,31.695688,7.488987
+Dayton,Ohio,False,27.17539,33.18226,4.8814507
+Washington Court House,Ohio,False,35.00972,26.313894,5.3333335
+Wayne,Indiana,False,33.32448,30.349318,5.398111
+Cincinnati,Ohio,False,26.481575,34.468098,5.121195
+Maysville,Kentucky,True,43.071594,11.662818,5.284553
+Washington,Indiana,False,29.515839,34.876106,10.6587715
+Lexington-Fayette,Kentucky,True,39.496,14.281477,5.3745
+Mount Sterling,Kentucky,True,43.071594,11.662818,6.2291436
+Danville,Kentucky,True,38.680485,11.63259,7.274969
+Elizabethtown,Kentucky,True,33.80331,15.786393,8.159895
+Louisville,Kentucky,True,28.787073,24.046547,5.1995487
+Madison,Indiana,False,29.886797,33.621956,9.382716
+Bardstown,Kentucky,True,39.74626,9.164931,7.621671
+Owensboro,Kentucky,True,35.8958,13.180635,9.230257
+Findlay,Ohio,False,27.096485,44.36695,7.361456
+Lima,Ohio,False,22.179155,51.68605,6.948177
+Toledo,Ohio,False,22.934496,39.383297,5.7480803
+Defiance,Ohio,False,23.307259,53.26326,8.147322
+South Bend,Indiana,False,22.873991,33.282875,6.013457
+Concord,Indiana,False,28.139978,39.17231,7.340099
+Wayne,Indiana,False,26.467314,35.16759,9.151414
+Center,Indiana,False,28.031376,29.738995,6.6135087
+Muncie,Indiana,False,31.671316,26.29527,5.317324
+Fort Wayne,Indiana,False,24.199884,43.04651,6.5946565
+Indianapolis,Indiana,False,30.033068,24.97862,4.9006324
+Columbus,Indiana,False,30.800262,32.191856,7.468643
+Terre Haute,Indiana,False,31.141508,24.075468,8.262526
+Lafayette,Indiana,False,28.552855,31.026718,9.083357
+Bloomington,Indiana,False,31.748755,28.950703,8.718585
+Evansville,Indiana,False,30.297466,38.612625,7.923892
+Olney,Illinois,False,35.151306,26.80968,11.693989
+Vincennes,Indiana,False,32.05596,29.360607,10.983982
+Gary,Indiana,False,17.365696,22.110899,8.139013
+Canton,Ohio,False,26.490425,38.259922,6.491085
+Lorain,Ohio,False,24.587774,34.32521,5.660012
+Cleveland,Ohio,False,20.186665,24.30001,5.0859265
+Parkersburg,West Virginia,True,37.272545,24.674995,7.0894403
+Zanesville,Ohio,False,34.40874,28.748465,6.840761
+Steubenville,Ohio,False,31.039873,26.793003,7.2718153
+Wheeling,West Virginia,True,31.745438,27.837774,12.540401
+Scioto,Ohio,False,34.64164,24.982801,6.4859004
+Athens,Ohio,False,34.46448,21.46759,7.4712644
+Columbus,Ohio,False,29.828041,29.38914,4.9094067
+Mansfield,Ohio,False,28.30038,37.598103,6.4460783
+State College,Pennsylvania,False,28.91872,38.942154,11.312765
+Altoona,Pennsylvania,False,21.05835,44.62019,10.237691
+Pittsburgh,Pennsylvania,False,21.668964,31.26651,9.514869
+Youngstown,Ohio,False,26.39648,25.822693,6.6974597
+Erie,Pennsylvania,False,27.437016,34.739902,7.5166807
+Roanoke,Virginia,True,41.0686,17.607464,6.4016423
+Elkins,West Virginia,True,31.31226,23.061531,10.579937
+Morgantown,West Virginia,True,32.335857,25.167269,10.495847
+Buckhannon,West Virginia,True,30.941475,24.597116,12.641085
+Beckley,West Virginia,True,33.23597,12.594838,10.644503
+Summersville,West Virginia,True,32.482113,18.216625,12.852897
+Charleston,West Virginia,True,36.505936,14.567421,9.7229395
+Spencer,West Virginia,True,38.40765,21.127544,14.656772
+Pikeville,Kentucky,True,43.39016,6.638642,13.784038
+Huntington,Kentucky,True,39.40738,14.265992,6.850575
+Harrisonburg,Virginia,True,33.891968,27.793022,9.388971
+Staunton,Virginia,True,35.768826,25.095644,6.8016195
+Hagerstown,Pennsylvania,False,24.57988,41.37281,8.709458
+Cumberland,Maryland,True,34.22106,37.763577,9.690554
+Winchester,Virginia,True,31.098,29.593315,9.72973
+Charlottesville,Virginia,True,37.805172,14.493629,6.13826
+Syracuse,New York,False,31.678528,21.285776,7.6672106
+Oneonta,New York,False,34.62635,23.125723,9.288389
+Union,New York,False,34.667366,20.15601,8.804402
+Buffalo,New York,False,23.472067,28.21249,6.678255
+Elmira,New York,False,38.465973,23.133053,9.369222
+Olean,New York,False,33.72908,33.28924,8.013305
+St. Marys,Pennsylvania,False,26.986963,34.720486,16.298344
+Watertown,New York,False,37.08777,14.281975,10.118044
+Plattsburgh,New York,False,30.722527,10.613235,8.545669
+Amsterdam,New York,False,28.219452,23.122065,8.284023
+Albany,New York,False,25.971004,19.683483,8.333334
+Sunbury,Pennsylvania,False,19.68849,45.948322,11.136677
+Scranton,Pennsylvania,False,19.81339,22.903086,10.745317
+Williamsport,Pennsylvania,False,28.785028,43.07517,10.162095
+Allentown,Pennsylvania,False,16.744495,43.220787,8.26315
+Reading,Pennsylvania,False,15.801191,51.88185,9.630955
+Harrisburg,Pennsylvania,False,19.940746,49.466633,7.9268293
+Poughkeepsie,New York,False,21.843487,20.9831,9.483578
+New York,New York,False,7.6238265,10.001404,10.500084
+Toms River,New Jersey,False,20.186977,20.959785,12.229786
+Newark,New Jersey,False,13.176483,15.5254545,10.242597
+Philadelphia,Pennsylvania,False,19.514454,20.92983,7.401167
+Wilmington,Delaware,True,31.080336,18.401949,6.5723925
+Dover,Delaware,True,36.01592,14.070312,6.2596006
+Easton,Maryland,True,38.28339,17.50022,6.2635927
+Chincoteague,Virginia,True,36.804565,6.1816454,4.4514103
+Bangor,Maine,False,50.311066,5.423295,8.090968
+Calais,Maine,False,55.791367,6.1870503,6.8027215
+Presque Isle,Maine,False,43.500835,5.321713,8.558558
+Portland,Maine,False,42.642647,6.144292,8.059802
+Burlington,Vermont,False,37.29904,8.792477,9.318786
+Berlin,Vermont,False,38.958694,6.854937,8.353081
+Claremont,Vermont,False,39.70369,8.794907,7.8877
+Providence,Rhode Island,False,23.391764,5.998398,8.209534
+Nantucket,Massachusetts,False,38.531544,9.679006,8.108108
+Oak Bluffs,Massachusetts,False,38.531544,9.679006,6.7669177
+Boston,Massachusetts,False,24.579279,6.2847958,10.484998
+Manchester,New Hampshire,False,38.213406,8.122776,10.015175
+Keene,New Hampshire,False,38.47258,8.910614,9.011165
+Springfield,Massachusetts,False,22.489239,8.092038,6.8050475
+Bridgeport,Connecticut,False,21.88849,12.129292,7.861789
+Pittsfield,Massachusetts,False,30.738377,11.213201,8.651912
+Ashland,Wisconsin,False,12.430972,35.624485,9.103261
+Houghton,Michigan,False,13.835077,17.126694,10.227273
+Ironwood,Michigan,False,13.574369,20.561277,12.138728
+Rhinelander,Wisconsin,False,13.979334,49.756287,10.628019
+Rice Lake,Wisconsin,False,12.854582,40.840656,10.152621
+Amery,Wisconsin,False,13.06568,43.440006,12.855007
+Hutchinson,Minnesota,False,9.672002,53.35138,17.706575
+Redwood Falls,Minnesota,False,9.401337,51.996086,19.71831
+Mankato,Minnesota,False,13.456373,58.635075,12.634409
+Owatonna,Minnesota,False,14.434043,46.782375,13.793103
+St. Cloud,Minnesota,False,10.927226,57.16108,12.68896
+Minneapolis,Minnesota,False,16.407671,40.57054,8.520113
+Pine City,Minnesota,False,12.269023,31.619421,10.969793
+Brainerd,Minnesota,False,12.925691,38.380424,8.427455
+Rochester,Minnesota,False,17.128017,50.082787,14.215985
+Austin,Minnesota,False,14.710749,46.541603,11.773255
+Mason City,Iowa,False,19.455406,52.2231,12.659846
+Decorah,Iowa,False,19.23894,55.773724,16.571428
+Marshalltown,Iowa,False,29.757162,39.387833,11.263468
+Waterloo,Iowa,False,21.90258,51.019806,12.246587
+Iowa Falls,Iowa,False,24.659895,47.071594,13.576159
+Iowa City,Iowa,False,25.297964,47.687542,9.318498
+Cedar Rapids,Iowa,False,26.929268,44.233055,11.731844
+Ottumwa,Iowa,False,34.326706,29.091274,12.4498
+Sheboygan,Wisconsin,False,9.354368,61.717064,13.809082
+Oshkosh,Wisconsin,False,14.009291,62.841553,11.4854965
+Green Bay,Wisconsin,False,9.676369,47.440254,9.109904
+Shawano,Wisconsin,False,13.655551,54.897285,8.390023
+Wausau,Wisconsin,False,13.351247,53.592175,12.448527
+Eau Claire,Wisconsin,False,15.257806,49.950394,11.301958
+La Crosse,Wisconsin,False,16.585135,48.89756,11.819333
+Monroe,Wisconsin,False,24.872196,50.383453,16.713882
+Madison,Wisconsin,False,21.269981,49.733116,9.219117
+Dubuque,Iowa,False,19.002325,59.64841,15.9482765
+Charleston,Illinois,False,35.39857,30.710272,9.586777
+Douglas,Illinois,False,28.488567,35.292805,10.154525
+Bloomington,Illinois,False,30.981394,35.94676,8.458647
+Decatur,Illinois,False,29.734764,30.833956,6.7792797
+Burlington,Iowa,False,29.425219,39.572025,10.227973
+Galesburg,Illinois,False,31.683332,31.014246,8.859358
+Davenport,Illinois,False,26.25538,34.931423,8.094435
+Clinton,Iowa,False,17.778828,61.5879,11.3879
+Peoria,Illinois,False,29.073772,35.670864,7.1781783
+Kenosha,Wisconsin,False,19.999447,44.57078,6.9195642
+Milwaukee,Wisconsin,False,12.890408,47.26073,4.457067
+Bourbonnais,Illinois,False,22.799025,31.621086,7.3096447
+Chicago,Illinois,False,12.3445215,20.997744,6.492926
+Rockford,Illinois,False,24.484741,37.94784,7.353865
+Rolla,Missouri,False,28.273472,32.27868,7.9737334
+Farmington,Missouri,False,26.251125,39.60706,8.524465
+St. Louis,Missouri,False,20.655922,34.200623,5.052314
+Mexico,Missouri,False,28.519064,38.88216,7.5675673
+Jacksonville,Illinois,False,30.65398,35.93491,9.115044
+Springfield,Illinois,False,30.708849,32.41357,6.7371597
+Edwardsville,Illinois,False,27.869017,36.044727,8.72937
+Quincy,Illinois,False,29.40821,40.269966,8.962049
+Mountain Home,Arkansas,True,36.30569,17.315092,8.950617
+West Plains,Missouri,False,32.151886,15.43627,8.155487
+Harrison,Arkansas,True,37.24583,17.633135,9.97151
+Heber Springs,Arkansas,True,34.722813,13.049041,10.960068
+Batesville,Arkansas,True,34.722813,13.049041,9.602888
+Henderson,Kentucky,True,37.135227,11.939945,9.92278
+Union City,Tennessee,True,37.391033,9.022361,7.392996
+Paducah,Kentucky,True,37.46051,13.01603,7.447775
+Murray,Kentucky,True,39.11116,12.124571,7.0454545
+Centralia,Illinois,False,28.674353,36.96062,8.134438
+Carbondale,Illinois,False,28.703796,27.574352,7.9047837
+Harrisburg,Illinois,False,31.151783,19.412092,11.21372
+Cape Girardeau,Missouri,False,26.876741,24.091827,6.0051546
+Poplar Bluff,Missouri,False,30.095387,15.943157,6.6825776
+Blytheville,Arkansas,True,25.597488,11.104285,5.140187
+Jonesboro,Arkansas,True,30.763153,10.340935,8.103226
+Roseau,Minnesota,False,9.519063,26.650885,18.75
+Duluth,Minnesota,False,13.3732,25.676626,8.911483
+West Cook UT,Minnesota,False,12.269023,31.619421,10.169491
+International Falls,Minnesota,False,12.269023,31.619421,17.412935
+Moberly,Missouri,False,30.806675,33.76217,10.137276
+Marshall,Missouri,False,29.671925,33.252995,9.483793
+Brookfield,Missouri,False,30.867767,31.157124,11.192214
+Trenton,Missouri,False,33.11283,28.381535,10.833333
+Polk,Missouri,False,32.47751,28.335835,8.713694
+Centerville,Iowa,False,34.381687,29.049969,14.671814
+Kirksville,Missouri,False,32.47751,28.335835,11.343804
+Bismarck,North Dakota,False,8.076123,64.41708,18.674137
+Linton,North Dakota,False,10.279453,49.785717,29.891304
+Devils Lake,North Dakota,False,11.8323,39.473923,9.647495
+Carrington,North Dakota,False,11.8323,39.473923,33.333336
+Turtle Mountain UT,North Dakota,False,11.8323,39.473923,8.255452
+Minot,North Dakota,False,9.544419,42.6082,22.417841
+Rugby,North Dakota,False,10.288476,45.07361,21.910112
+Ekalaka,South Dakota,False,21.775526,37.21531,22.972973
+Baker,Montana,False,21.395823,35.863476,21.276596
+Bowman,North Dakota,False,9.544419,42.6082,46.969696
+Lemmon,North Dakota,False,10.368466,40.401367,35.714287
+Wolf Point,Montana,False,22.622084,30.964104,9.418838
+Plentywood,Montana,False,22.93883,29.69858,31.818182
+Glasgow,Montana,False,22.93883,29.69858,16.606499
+Glendive,Montana,False,19.603495,36.883503,26.666668
+Dickinson,North Dakota,False,9.544419,42.6082,32.92079
+Sidney,North Dakota,False,14.938009,39.538666,25.056946
+Williston,North Dakota,False,9.544419,42.6082,33.830845
+Brookings,South Dakota,False,11.956313,50.23951,16.666668
+Madison,South Dakota,False,11.956313,50.23951,18.435755
+Sioux Falls,South Dakota,False,15.928121,47.737675,11.863315
+Watertown,South Dakota,False,11.956313,50.23951,14.3529415
+Milbank,Minnesota,False,11.067232,49.460373,17.021276
+Sisseton,South Dakota,False,13.082902,57.53146,10.706637
+East Corson UT,South Dakota,False,10.241076,48.077507,7.0028014
+Mobridge,South Dakota,False,11.747459,36.708366,11.111112
+Aberdeen,South Dakota,False,13.082902,57.53146,19.926874
+Bemidji,Minnesota,False,9.815674,32.643818,9.528688
+Grafton,North Dakota,False,11.449601,37.352486,23.255816
+Thief River Falls,Minnesota,False,9.519063,26.650885,17.875648
+Grand Forks,North Dakota,False,11.168176,36.022934,12.794918
+Fargo,North Dakota,False,11.470721,43.08871,13.581731
+Lisbon,North Dakota,False,12.066864,42.069405,23.529411
+Jamestown,North Dakota,False,11.8323,39.473923,22.40566
+Fergus Falls,Minnesota,False,10.416666,44.78673,15.230769
+Little Falls,Minnesota,False,13.519216,44.491333,16.455696
+O'Neill,Nebraska,False,23.787302,42.95714,18.934912
+Ord,Nebraska,False,23.787302,42.95714,23.923445
+Ainsworth,Nebraska,False,23.787302,42.95714,19.205297
+Winner,South Dakota,False,11.747459,36.708366,13.928572
+Yankton,South Dakota,False,13.870496,52.552628,17.12
+Mitchell,South Dakota,False,11.114413,48.647846,13.381995
+Huron,South Dakota,False,12.823486,56.36074,12.048193
+Parkston,South Dakota,False,11.114413,48.647846,15.710724
+Chamberlain,South Dakota,False,11.443262,42.445637,8.041958
+Miller,South Dakota,False,12.690065,51.406105,31.506847
+Pierre,South Dakota,False,11.747459,36.708366,9.243698
+Gettysburg,South Dakota,False,11.747459,36.708366,32.65306
+Willmar,Minnesota,False,9.614318,51.97521,12.4713955
+Marshall,Minnesota,False,10.494949,51.88889,15.306123
+Sioux Center,Iowa,False,16.398243,43.857315,23.076923
+Worthington,Minnesota,False,11.1913185,50.94146,14.029365
+Spencer,Iowa,False,17.36396,46.499954,18.500797
+Fairmont,Minnesota,False,13.151262,57.521587,12.871287
+Storm Lake,Iowa,False,19.515238,52.614193,17.343174
+Fort Dodge,Iowa,False,21.106308,41.9879,13.004485
+Des Moines,Iowa,False,31.615131,32.66055,9.102483
+Creston,Iowa,False,34.381687,29.049969,12.451362
+Atlantic,Iowa,False,26.842234,43.785316,15.158372
+Carroll,Iowa,False,21.15564,57.22274,16.723549
+Rapid City,South Dakota,False,22.187077,38.680523,9.303295
+Eagle Butte,South Dakota,False,11.747459,36.708366,5.111821
+Southwest Jackson UT,South Dakota,False,11.747459,36.708366,11.034483
+Mission,South Dakota,False,11.747459,36.708366,2.425373
+Scottsbluff,Nebraska,False,23.787302,42.95714,11.940298
+Cheyenne,Wyoming,False,28.981209,31.53955,9.563758
+Torrington,Wyoming,False,30.107794,29.063019,17.158178
+Gordon,South Dakota,False,15.890834,38.85881,3.1948884
+Virginia Beach,Nebraska,False,17.135687,57.178707,15.160796
+Columbus,Nebraska,False,15.225762,53.339653,16.91843
+Hastings,Nebraska,False,20.259546,48.895325,11.111112
+York,Nebraska,False,19.284523,51.762623,18.681318
+Grand Island,Nebraska,False,20.259546,48.895325,14.209968
+Sioux City,Iowa,False,21.389818,47.588406,11.252354
+West Point,Nebraska,False,14.49475,53.623688,10.0386095
+Lincoln,Nebraska,False,25.499266,47.25254,9.131675
+Nebraska City,Nebraska,False,19.284523,51.762623,15.83514
+Red Oak,Iowa,False,29.85911,37.426258,12.421384
+Omaha,Nebraska,False,23.37603,37.90311,7.7540746
+Sterling,Colorado,False,26.5962,34.080845,14.463453
+Ogallala,Nebraska,False,25.64494,41.177372,16.228071
+Valentine,Nebraska,False,24.297966,42.876785,14.5348835
+Broken Bow,Nebraska,False,23.908546,42.93806,17.647058
+North Platte,Nebraska,False,25.756252,42.647316,12.276786
+Colorado Springs,Colorado,False,30.235859,27.746296,8.934269
+Limon,Colorado,False,26.5962,34.080845,17.857143
+Springfield,Colorado,False,26.5962,34.080845,19.19192
+Pueblo,Colorado,False,23.665047,22.868921,6.562168
+Trinidad,Colorado,False,26.78832,16.332117,11.764706
+Burlington,Colorado,False,26.5962,34.080845,20.465117
+Oberlin,Kansas,False,22.887264,48.10406,24.324326
+Norton,Kansas,False,22.887264,48.10406,16.86747
+Phillipsburg,Kansas,False,22.887264,48.10406,14.864865
+Colby,Kansas,False,22.887264,48.10406,19.58763
+Goodland,Kansas,False,22.887264,48.10406,19.491526
+Wano,Kansas,False,24.139828,45.721714,20.454546
+McCook,Nebraska,False,25.756252,42.647316,18.245613
+Kearney,Nebraska,False,20.551405,48.404045,16.442953
+Lexington,Nebraska,False,24.145452,44.478283,16.527779
+Salida,Colorado,False,32.076588,28.79984,8.947369
+Glenwood Springs,Colorado,False,32.612194,26.089064,16.901407
+Granby,Colorado,False,31.926792,26.148111,7.5471697
+Laramie,Wyoming,False,30.21754,28.887154,16.286644
+Fort Collins,Colorado,False,31.137901,35.155888,11.5367775
+Denver,Colorado,False,30.67075,27.73563,8.702775
+Pratt,Kansas,False,30.120886,40.983883,15.517241
+Dodge City,Kansas,False,26.413301,36.595406,11.3309355
+Great Bend,Kansas,False,30.120886,40.983883,13.128039
+Hutchinson,Kansas,False,28.507101,40.513004,10.738916
+Hays,Kansas,False,22.887264,48.10406,15.789473
+Township 11,Kansas,False,22.887264,48.10406,11.510792
+Center,Kansas,False,26.413301,36.595406,14.942529
+Concordia,Kansas,False,26.001846,38.41182,15.2823925
+Superior,Nebraska,False,19.7476,50.400818,18.63354
+Beloit,Kansas,False,24.686815,42.504055,15.037593
+Salina,Kansas,False,26.001846,38.41182,8.299867
+Hiawatha,Kansas,False,26.29959,36.474007,17.18213
+Marysville,Kansas,False,25.599876,35.10548,14.522822
+Manhattan,Kansas,False,26.749409,33.266838,8.853119
+Topeka,Kansas,False,31.007019,31.469246,7.04688
+Wichita,Kansas,False,30.35904,31.479755,7.2246695
+Newton,Kansas,False,29.540342,39.620636,10.34965
+Winfield,Kansas,False,33.721188,29.350365,10.986267
+Ottawa,Kansas,False,33.324577,28.777296,9.26396
+Emporia,Kansas,False,33.022438,35.036495,10.940171
+Bartlesville,Kansas,False,31.139935,23.256525,8.949881
+Leavenworth,Kansas,False,26.29959,36.474007,8.034611
+Kansas City,Missouri,False,29.926577,26.023441,7.0146575
+St. Joseph,Missouri,False,32.26541,30.413586,8.311345
+Sedalia,Missouri,False,30.684067,31.650639,8.256315
+Polk,Missouri,False,34.75833,28.499905,11.274509
+Bethany,Missouri,False,34.75833,28.499905,12.084592
+Columbia,Missouri,False,30.468441,36.71458,6.5512977
+Eldon,Missouri,False,29.167366,26.269058,6.7785664
+Springfield,Missouri,False,35.27553,22.463823,7.1467614
+Aurora,Missouri,False,34.373646,21.781534,7.489146
+Joplin,Missouri,False,33.20499,22.831821,7.22867
+Center,Missouri,False,32.92418,27.358728,8.566434
+Russellville,Arkansas,True,30.024681,14.603132,8.873609
+Fort Smith,Arkansas,True,26.188246,13.639313,9.39386
+Muskogee,Oklahoma,True,23.76762,11.034748,6.3101106
+Fayetteville,Arkansas,True,35.38149,17.132988,9.180652
+Stillwater,Oklahoma,True,31.144466,21.68531,9.846432
+Tulsa,Oklahoma,True,29.558342,17.851566,7.8357496
+Okmulgee,Oklahoma,True,23.01551,11.519161,8.106116
+Woodward,Oklahoma,True,31.502998,26.536734,20.0
+Enid,Oklahoma,True,30.630552,25.204437,14.926879
+El Paso,Texas,True,13.957684,9.049251,8.644128
+Alamogordo,New Mexico,False,26.192669,14.73568,8.495575
+Truth or Consequences,New Mexico,False,18.789108,10.536107,8.127209
+Deming,New Mexico,False,19.291058,10.153189,6.972789
+Van Horn,Texas,True,21.82628,9.484038,22.346369
+Roswell,New Mexico,False,27.468082,13.455695,11.661238
+Santa Rosa,New Mexico,False,20.812807,11.976602,12.048193
+Hobbs,New Mexico,False,27.212217,11.370063,16.194967
+Lubbock,Texas,True,30.004835,13.765231,6.737538
+Clovis,New Mexico,False,22.469223,12.298803,8.281573
+Littlefield,Texas,True,27.67271,11.691866,8.036622
+Amarillo,Texas,True,33.526333,15.796293,8.61367
+Pampa,Texas,True,31.149202,13.987219,15.333334
+Wellington,Texas,True,31.149202,13.987219,13.364056
+Memphis,Texas,True,31.149202,13.987219,11.715482
+Plainview,Texas,True,27.129263,11.3330555,8.4852295
+Garden City,Kansas,False,26.413301,36.595406,10.8910885
+Ulysses,Kansas,False,26.413301,36.595406,19.072165
+Scott City,Kansas,False,26.413301,36.595406,19.130434
+Liberal,Kansas,False,27.619549,34.21152,12.114537
+Perryton,Texas,True,31.149202,13.987219,23.28358
+Guymon,Oklahoma,True,30.833622,26.36511,16.170212
+Dumas,Texas,True,31.149202,13.987219,13.601533
+Victoria,Texas,True,18.446846,24.780096,10.1473
+La Grange,Texas,True,18.24223,24.743917,11.401425
+Gonzales,Texas,True,18.446846,24.780096,6.962025
+Austin,Texas,True,28.211662,20.840567,6.9321632
+Burnet,Texas,True,37.075848,17.265469,9.473684
+San Antonio,Texas,True,17.519972,16.537867,6.438259
+Beeville,Texas,True,17.029543,18.089275,10.215947
+Kerrville,Texas,True,23.037682,24.551588,9.563758
+Mason,Texas,True,28.972107,17.275389,17.44186
+Midland,Texas,True,26.910343,12.5836525,17.888699
+Pecos,Texas,True,21.82628,9.484038,23.295454
+Fort Stockton,Texas,True,23.544193,11.357139,22.278057
+Alpine,Texas,True,21.82628,9.484038,18.026566
+Crystal City,Texas,True,10.682492,6.4813366,8.320494
+Pearsall,Texas,True,19.43754,19.28615,9.375
+Laredo,Texas,True,2.7132342,1.7318517,10.885359
+Brownsville,Texas,True,8.07794,4.9256916,9.160912
+Corpus Christi,Texas,True,17.069595,11.720837,10.556761
+College Station,Texas,True,24.682108,21.423706,7.777778
+Pearland,Texas,True,23.1017,18.614588,11.571612
+Houston,Texas,True,23.117989,14.343013,9.273798
+Beaumont,Texas,True,26.832062,10.411907,9.497057
+Huntsville,Texas,True,28.406155,11.56965,7.7342587
+Nacogdoches,Texas,True,30.406723,9.416015,9.39184
+San Angelo,Texas,True,28.972107,17.275389,8.638642
+Brady,Texas,True,33.071472,17.27037,11.814346
+Junction,Texas,True,28.972107,17.275389,7.3469386
+Uvalde,Texas,True,13.564891,8.182453,9.684361
+Del Rio,Texas,True,11.120088,6.5992475,12.306046
+Eagle Pass,Texas,True,10.682492,6.4813366,10.008103
+Big Spring,Texas,True,29.918554,13.307804,11.444141
+Sweetwater,Texas,True,32.24808,11.122972,12.202853
+Snyder,Texas,True,32.24808,11.122972,15.608919
+Abilene,Texas,True,32.460384,13.415611,10.329199
+Childress,Texas,True,31.932936,13.894777,7.826087
+Haskell,Texas,True,30.95142,11.800834,16.901407
+Wichita Falls,Texas,True,29.031404,16.157568,9.66045
+Graham,Texas,True,31.956228,13.689902,17.593985
+Seymour,Texas,True,31.932936,13.894777,8.602151
+Vernon,Texas,True,31.932936,13.894777,8.80734
+Brownwood,Texas,True,37.075848,17.265469,10.866373
+Stephenville,Texas,True,33.166576,12.291599,11.419753
+Waco,Texas,True,28.332722,15.6040745,6.7537436
+Corsicana,Texas,True,29.522463,12.763447,10.130434
+Killeen,Texas,True,24.386219,18.734173,7.724827
+Fort Worth,Texas,True,31.889885,14.69873,9.136286
+Dallas,Texas,True,29.460659,13.914953,7.1082463
+Paris,Texas,True,28.051037,10.08082,7.6712327
+Tyler,Texas,True,28.373455,9.336651,9.510651
+Longview,Texas,True,28.086058,9.895218,11.419707
+Texarkana,Texas,True,28.074562,8.045658,7.889309
+Lawton,Oklahoma,True,26.842556,16.542324,10.488089
+Altus,Oklahoma,True,31.595982,19.707035,11.214952
+Frederick,Oklahoma,True,29.615494,12.849874,7.4303403
+Ardmore,Oklahoma,True,28.443047,11.6266,11.078823
+Elk City,Oklahoma,True,31.595982,19.707035,18.719889
+Chickasha,Oklahoma,True,29.615494,12.849874,11.544628
+Oklahoma City,Oklahoma,True,30.18199,18.27507,8.207529
+Ada,Oklahoma,True,26.001904,11.243394,11.672942
+Sherman,Texas,True,28.866016,12.917489,8.8479805
+Hot Springs,Arkansas,True,30.180809,10.300934,7.075673
+Idabel,Oklahoma,True,25.544258,11.085491,9.227872
+Havre,Montana,False,22.93883,29.69858,8.21485
+Shelby,Montana,False,22.93883,29.69858,4.7505937
+Great Falls,Montana,False,22.896242,29.868736,9.635975
+Lewistown,Montana,False,21.395823,35.863476,17.164179
+Cody,Wyoming,False,30.132692,32.823444,14.740369
+Worland,Wyoming,False,30.132692,32.823444,13.065327
+Riverton,Wyoming,False,34.295498,22.439661,12.431843
+Sheridan,Wyoming,False,27.818676,33.628616,10.449321
+Miles City,Montana,False,21.395823,35.863476,17.928288
+Colstrip,Montana,False,21.395823,35.863476,8.888889
+Billings,Montana,False,27.67814,39.00208,13.051917
+Harlowton,Montana,False,25.331985,31.67898,20.0
+Dillon,Montana,False,29.683308,27.053139,11.688312
+Bozeman,Montana,False,29.266163,27.496597,12.596899
+Helena,Montana,False,29.683308,27.053139,11.97411
+Butte-Silver Bow,Montana,False,29.683308,27.053139,8.936652
+Bonners Ferry,Idaho,False,30.889208,29.519733,9.913794
+Libby,Montana,False,28.497046,29.448282,13.026052
+Kalispell,Montana,False,28.497046,29.448282,11.084143
+Missoula,Montana,False,28.497046,29.448282,10.562731
+Gillette,Wyoming,False,30.1278,32.08408,26.418438
+Rawlins,Wyoming,False,30.107794,29.063019,19.341564
+Casper,Wyoming,False,30.107794,29.063019,16.62689
+Las Vegas,New Mexico,False,20.812807,11.976602,8.584842
+Santa Fe,New Mexico,False,17.69166,9.814659,8.032331
+Tucumcari,New Mexico,False,20.812807,11.976602,7.3033705
+Clayton,New Mexico,False,20.812807,11.976602,12.230216
+Alamosa,Colorado,False,26.78832,16.332117,9.886792
+Albuquerque,New Mexico,False,23.406414,15.12876,6.5984616
+Socorro,New Mexico,False,18.878263,10.468094,5.211726
+Phoenix,Arizona,False,28.344717,21.463772,7.527729
+Safford,Arizona,False,25.137693,14.263523,11.059191
+Tucson,Arizona,False,27.66933,20.331413,7.0549994
+Grand Junction,Colorado,False,33.088364,25.404913,14.636715
+Gunnison,Colorado,False,31.926792,26.148111,10.619469
+Farmington,New Mexico,False,19.19996,10.44121,9.1447525
+Flagstaff,Arizona,False,28.122791,18.01062,8.145091
+Cortez,Colorado,False,37.19198,14.414412,12.678062
+Gallup,Arizona,False,16.013035,6.8539815,4.1061397
+Twin Falls,Idaho,False,41.237736,22.445282,8.711919
+Burley,Idaho,False,41.237736,22.445282,11.389236
+Boise City,Idaho,False,40.99035,23.725365,7.392042
+Ontario,Oregon,False,34.713516,22.252571,8.448416
+McCall,Idaho,False,36.859646,22.355265,12.403101
+St. George,Utah,False,61.86672,10.05456,10.84833
+Price,Utah,False,55.43595,11.108592,13.734393
+Moab,Utah,False,52.641003,11.566696,11.797753
+Richfield,Utah,False,61.86672,10.05456,12.86031
+Loa,Utah,False,61.86672,10.05456,20.967741
+Provo,Utah,False,63.7569,13.0702,13.7512
+Salt Lake City,Utah,False,56.913387,14.460094,10.832743
+Logan,Utah,False,58.775043,13.790014,13.690953
+Pocatello,Idaho,False,52.926083,17.382523,9.250867
+Salmon,Idaho,False,54.61255,17.158672,15.492958
+Jackson,Wyoming,False,39.03192,21.208529,11.392405
+Steamboat Springs,Colorado,False,33.040653,25.435442,15.89041
+Vernal,Utah,False,52.641003,11.566696,25.33784
+Soda Springs,Idaho,False,51.12154,17.62205,17.699116
+Rock Springs,Wyoming,False,35.185223,22.076645,20.53942
+Klamath Falls,California,False,32.075756,21.667534,8.561759
+Burns,Oregon,False,32.757603,22.15898,13.939394
+Lakeview,Oregon,False,32.757603,22.15898,10.982658
+Redding,California,False,32.18863,23.038948,8.807135
+Eureka,California,False,30.53876,19.268402,7.579273
+Medford,Oregon,False,36.616444,24.782387,7.196801
+Crescent City,California,False,32.800476,21.652632,8.342246
+Roseburg,Oregon,False,35.566036,24.245283,8.197788
+Modesto,California,False,25.706955,15.978371,9.362827
+Bakersfield,California,False,26.501291,15.022868,12.161972
+Fresno,California,False,22.372318,14.991972,7.487937
+Chico,California,False,33.664356,21.59034,9.48426
+Sacramento,California,False,29.000738,20.355335,9.690901
+San Jose,California,False,26.271278,17.107271,12.932589
+Elko,Nevada,False,32.49211,20.532162,16.029411
+Winnemucca,Nevada,False,32.49211,20.532162,16.955017
+Portola,California,False,32.418606,21.598555,11.764706
+Reno,Nevada,False,33.257587,22.70826,9.103049
+Santa Rosa,California,False,30.276373,20.631989,9.95509
+San Francisco,California,False,23.36711,15.32346,12.152587
+Las Vegas,Nevada,False,27.155828,19.08529,8.002901
+Reno,Nevada,False,32.49211,20.532162,10.97561
+Mammoth Lakes,California,False,34.341827,21.779902,11.594203
+San Diego,California,False,28.08967,19.327904,10.436476
+Yuma,California,False,26.746984,16.90444,9.821322
+Santa Barbara,California,False,31.11728,19.570007,11.294084
+Los Angeles,California,False,22.1258,14.706198,9.60902
+Lewiston,Idaho,False,31.166454,29.248676,9.020979
+Pullman,Washington,False,31.5754,28.848866,14.236111
+Moses Lake,Washington,False,28.135242,29.480766,9.657948
+Wenatchee,Washington,False,34.147533,25.777561,9.354605
+Spokane,Washington,False,32.334045,29.757303,9.2801485
+Colville,Washington,False,30.936605,27.755297,9.752476
+Longview,Washington,False,33.079166,23.988253,9.277267
+Portland,Oregon,False,33.727806,27.48829,9.305854
+The Dalles,Oregon,False,33.17838,25.398165,10.4380245
+Eugene,Oregon,False,35.472168,27.704678,7.8895817
+Newport,Oregon,False,35.91415,24.372019,7.257448
+Yakima,Washington,False,28.931736,22.576658,8.170658
+Kennewick,Washington,False,33.767,26.601028,10.58548
+La Grande,Oregon,False,31.257841,25.548935,8.767471
+Enterprise,Oregon,False,31.257841,25.548935,14.379086
+Bend,Oregon,False,33.582905,25.643427,8.172636
+Condon,Oregon,False,31.257841,25.548935,10.869565
+John Day,Oregon,False,31.257841,25.548935,11.585366
+Friday Harbor,Washington,False,34.588924,21.895426,10.169491
+Bellingham,Washington,False,31.126574,22.569118,11.557512
+Port Angeles,Washington,False,32.892563,23.041323,8.584006
+Seattle,Washington,False,32.759995,23.398415,10.855095
